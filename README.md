@@ -5,7 +5,7 @@ Production-ready smart contract templates for deploying highly efficient NFT col
 
 ```solidity
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.10;
+pragma solidity ^0.8.11;
 
 contract BaseCollectionNFT {
     string public name = "Base Explorer Club";
